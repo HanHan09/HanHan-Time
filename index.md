@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+## 隐私策略
 
-You can use the [editor on GitHub](https://github.com/HanHan09/HanHan09/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+2432807912@qq.com将憨憨时间管理应用程序构建为免费应用程序。此服务由2432807912@qq.com免费提供，按原样使用。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+如果有人决定使用我的服务，此页面用于通知访客我的个人信息收集、使用和披露政策。
 
-### Markdown
+如果您选择使用我的服务，那么您同意收集和使用与此策略相关的信息。我收集的个人信息用于提供和改进服务。除本隐私政策所述之外，我不会使用或与任何人共享您的信息。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+本隐私政策中使用的术语的含义与我们的条款和条件中的含义相同，除非本隐私政策中另有定义，否则在憨憨时间管理管理可访问。
 
-```markdown
-Syntax highlighted code block
+### 信息收集与使用
 
-# Header 1
-## Header 2
-### Header 3
+为了获得更好的体验，在使用我们的服务时，我可能要求您向我们提供某些个人标识信息，包括但不限于SD卡写入存储空间、收集和传输、读取日历、新建/修改/删除日历。我请求的信息将保留在您的设备上，我不会以任何方式收集这些信息。
 
-- Bulleted
-- List
+该应用程序确实使用了第三方服务，可以收集用于识别您身份的信息。
 
-1. Numbered
-2. List
+链接到应用程序使用的第三方服务提供商的隐私政策
 
-**Bold** and _Italic_ and `Code` text
+友盟服务
 
-[Link](url) and ![Image](src)
-```
+FireBase分析
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+日志数据
 
-### Jekyll Themes
+我想告诉你，每当你使用我的服务，在应用程序发生一个错误时，我在你的电话上收集数据和信息（通过第三方产品）称为日志数据。此日志数据可能包括以下信息：设备Internet协议（“IP”）地址、设备名称、操作系统版本、使用我的服务时应用程序的配置、使用服务的时间和日期以及其他统计信息。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HanHan09/HanHan09/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 服务提供商
 
-### Support or Contact
+我可以雇佣第三方公司和个人，原因如下：
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+为我们的服务提供便利；
+
+代表我们提供服务；
+
+提供与服务有关的服务；或
+
+帮助我们分析如何使用我们的服务。
+
+我想通知此服务的用户，这些第三方可以访问您的个人信息。原因是代表我们执行分配给他们的任务。但是，他们有义务不将信息披露或用于任何其他目的。
+
+### 安全
+
+我很重视您对我们提供您个人信息的信任，因此我们正努力使用商业上可接受的方式来保护您的个人信息。但是请记住，没有任何一种在互联网上传输的方法，或电子存储的方法是100%安全可靠的，我不能保证它的绝对安全性。
+
+链接到其他网站
+
+此服务可能包含指向其他网站的链接。如果您单击第三方链接，您将被定向到该站点。请注意，这些外部站点不是由我操作的。因此，我强烈建议您查看这些网站的隐私政策。我对任何第三方网站或服务的内容、隐私政策或做法没有控制权，也不承担任何责任。
+
+### 儿童隐私
+
+这些服务不适用于13岁以下的任何人。我不会故意收集13岁以下儿童的个人身份信息。如果您是父母或监护人，并且您知道您的孩子向我们提供了个人信息，请联系我，以便我能够采取必要的行动。
+
+### 此隐私政策的更改
+
+我可能会不时更新我们的隐私政策。因此，建议您定期查看此页面是否有任何更改。如果有任何更改，我将在本页上发布新的隐私政策。这些更改在发布到此页面后立即生效。
+
+### 联系我们
+
+如果您对我的隐私政策有任何疑问或建议，请随时联系我：2432807912@qq.com。
+
+
