@@ -22,7 +22,8 @@
 
 为了向您提供一键分享服务，我们的产品集成友盟+ U-Share SDK，将收集您的设备标识信息（如IMEI/android ID/IDFA等）和您需要分享的社交账户公开信息，以便完成一键分享服务。为了您的信息安全，我们已与第三方SDK服务商进行数据安全保密约定，这些公司会严格遵守我们的数据隐私和安全要求。除非得到您的同意，我们不会与其共享您的个人身份信息。为便于您更好地了解【友盟+】采集的数据类型及用途，以及何保护您的个人信息，您可以登陆https://www.umeng.com/policy 了解【友盟+】隐私权政策。
 
-为了给开发者带来收入，以便可持续性的开发产品服务于用户，我们的产品集成了Admob、Adview的广告SDK，将收集您的设备标识信息（如IMEI/android ID/IDFA/MAC地址等），从而完成广告投放服务（启动页面的开屏广告和创建日程页面的banner广告）。为了您的信息安全，这些公司会严格遵守数据隐私和安全要求，不会将信息披露给第三方。为便于您更好地了解的隐私权策略，您可以登陆https://policies.google.com/privacy?hl=zh-CN 和 http://adview.cn/about/company 了解隐私权政策。
+为了给开发者带来收入，以便可持续性的开发产品服务于用户，我们的产品集成了Admob、Adview、腾讯优汇量、百度、今日头条穿山甲的广告SDK，将收集您的设备标识信息（如IMEI/android ID/IDFA/MAC地址等），从而完成广告投放服务（启动页面的开屏广告和创建日程页面的banner广告）。为了您的信息安全，这些公司会严格遵守数据隐私和安全要求，不会将信息披露给第三方。为便于您更好地了解的隐私权策略，您可以登陆https://policies.google.com/privacy?hl=zh-CN 、http://adview.cn/about/company 、https://e.qq.com/optout.html 、https://union.baidu.com/bqt/#/legal/policies 、https://www.pangle.cn/privacy 了解隐私权政策。
+
 
 ### 服务提供商
 
